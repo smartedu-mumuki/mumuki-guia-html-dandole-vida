@@ -1,6 +1,6 @@
 ---
 expectations:
 - binding: css:.section
-  inspection: DeclaresStyle:display:flex
+  inspection: DeclaresAttribute:display:flex
 - binding: css.section
-  inspection: DeclaresStyle:flex-direction:column
+  inspection: DeclaresAttribute:flex-direction:column
