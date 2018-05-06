@@ -12,9 +12,9 @@ Cada diseño de "caja flexible" sigue dos ejes. El eje principal es el eje a lo 
 * La propiedad **align-items** define cómo los elementos flexibles se disponen a lo largo del eje secundario de la línea en curso.
 * La propiedad **align-self** define cómo cada elemento flexible se alinea respecto al eje secundario, y sustituye al valor por defecto establecido por align-items.
 
-Direcciones
-Los lados inicio principal/fin principal (main start/main end) e inicio secundario/fin secundario (cross start/cross end) del contenedor flexible describen el origen y final del flujo de los elementos flexibles. Estos siguen los eje principal y secundario según el vector establecido por writing-mode (izquierda-a-derecha, derecha-a-izquierda, etc.).
+**Direcciones**
+Los lados inicio principal/fin principal (main start/main end) e inicio secundario/fin secundario (cross start/cross end) del contenedor flexible describen el origen y final del flujo de los elementos flexibles. Estos siguen los eje principal y secundario según el vector establecido por writing-mode (izquierda-a-derecha, derecha-a-izquierda, etc.). 
 
-* La propiedad order asigna elementos a grupos ordinales y determina qué elementos aparecen primero.
-* La propiedad flex-flow property combina las propiedades flex-direction y flex-wrap para colocar los elementos flexibles.
+* La propiedad **order** asigna elementos a grupos ordinales y determina qué elementos aparecen primero.
+* La propiedad **flex-flow** property combina las propiedades **flex-direction** y **flex-wrap** para colocar los elementos flexibles.
 
