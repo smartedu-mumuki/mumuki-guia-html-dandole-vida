@@ -6,3 +6,8 @@ Para lograr este efecto vamos a comenzar por el `.header` y creamos una propieda
 
 Ejercicio:
 > Con el selector `.header` vamos crear un `height: 200px;` y le vamos a dar un fondo `background: linear-gradient(90deg, #fff 50%, #50acef 50%);`
+
+Como ya tenemos nuestro fondo nos falta el estilo del texto.
+
+Ejercicio:
+> Con el selector `.cv_name` vamos a darle un `font-size` de `4rem` (em es la unidad para medir el alto de M y rem es igual pero toma como base el tamaño inicial) font-family de tipo Arial y un margin-left de 5%.
