@@ -8,7 +8,7 @@ Sin embargo si tomamos el eje horizontal de cada una de nuestras areas, los elem
 
 **Pero ahora veamos más en detalle.**
 
-
+Ya tenemos la dirección principal del CV y de cada una de las áreas, pero si se fijan bien la dirección de nuestro `.aside` y `.curriculum` tienen un eje vertical, es decir cambian nuevamente de dirección y apilan los elementos uno arriba del otro, lo que nos muestra que estos contenedores tienen una `flex-direction: column;`.
 
 
 
