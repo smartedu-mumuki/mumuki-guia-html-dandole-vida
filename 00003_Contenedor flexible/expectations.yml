@@ -1,4 +1,4 @@
 ---
 expectations:
-- binding: css:section
+- binding: css:.section
   inspection: DeclaresStyle:flex
