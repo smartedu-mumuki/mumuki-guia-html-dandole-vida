@@ -1,6 +1,6 @@
 ---
 expectations:
 - binding: css:.header
-  inspection: DeclaresStyle:height:200px
+  inspection: DeclaresStyle:heigth:200px
 - binding: css:.header
-  inspection: 'DeclaresStyle:background:linear-gradient(90deg, #fff 50%, #50acef 50%)'
+  inspection: 'DeclaresStyle:background:linear-gradient(90deg, #fff 50%, #50acef 50%'')'
