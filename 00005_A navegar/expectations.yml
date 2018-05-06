@@ -1,0 +1,4 @@
+---
+expectations:
+- binding: css:.navbar
+  inspection: DeclaresStyle:flex
