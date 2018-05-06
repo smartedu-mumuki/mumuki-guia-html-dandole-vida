@@ -9,12 +9,4 @@
   height: 50px;
   align-items: center;
 }
-
-.links {
-  font-size: 1.5rem;
-  font-weight: bold;
-  text-decoration: none;
-  color: #333;
-  font-family: arial;
-}
 ```
