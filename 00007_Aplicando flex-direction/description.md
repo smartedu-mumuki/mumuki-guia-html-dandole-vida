@@ -1,2 +1,8 @@
 Apliquemos las diferentes direcciónes que entramos en en la lectura anterior.
 
+Como a lo largo de guía ya aplicamos algunas de las direcciones como la de `.section` y `.navbar`, vamos a concentranos en entender el porque de cada una y su comportamiento dentro de cada área que nos queda.
+
+
+
+Empecemos por .container
+
