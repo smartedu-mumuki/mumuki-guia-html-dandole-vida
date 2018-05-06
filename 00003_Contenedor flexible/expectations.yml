@@ -1,0 +1,4 @@
+---
+expectations:
+- binding: css:section
+  inspection: DeclaresStyle:flex
