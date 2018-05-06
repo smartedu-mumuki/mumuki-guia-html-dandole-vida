@@ -1,0 +1,4 @@
+---
+expectations:
+- binding: css:.header
+  inspection: DeclaresStyle:200px
