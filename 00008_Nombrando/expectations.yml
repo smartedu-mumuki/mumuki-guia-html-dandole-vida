@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: css:.cv_name
+  inspection: DeclaresStyle:font-size:4rem
+- binding: css:.cv_name
+  inspection: DeclaresStyle:font-family:Arial
+- binding: css:.cv_name
+  inspection: DeclaresStyle:margin-left:5%
