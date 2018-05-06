@@ -3,7 +3,7 @@ name: Dandole vida
 locale: es
 type: learning
 beta: false
-teacher_info: 
+teacher_info: ''
 language: html
 id_format: "%05d"
 order: []
