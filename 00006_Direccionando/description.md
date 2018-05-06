@@ -4,7 +4,7 @@ Como vimos antes, las direcciones son una parte fundamental de **flexbox** ya qu
 
 Si tomamos el eje central, podemos ver que nuestra `.section` es una columna en la que apilamos 4 diferentes areas, `.header`, `.navbar`, `.container` y `.footer`. Entonces tenemos una dirección principal `flex-direction: column;`
 
-Sin embargo si tomamos el eje horizontal de cada una de nuestras areas, los elementos o tags que se encuentran dentro de cada una se agrupan de manera horizontal, por ejemplo nuestro menú no aparece un botón arriba del otro, sino que están uno al lado del otro, eso se debe a dirección lineal. Eso significa que nuestra areas tienen una `flex-direction: row;`.
+Sin embargo si tomamos el eje horizontal de cada una de nuestras areas, los elementos o tags que se encuentran dentro de cada una, se agrupan de manera horizontal, por ejemplo, nuestro menú no aparece un botón arriba del otro, sino que están uno al lado del otro, eso se debe a dirección lineal. Eso significa que nuestra areas tienen una `flex-direction: row;`.
 
 **Pero ahora veamos más en detalle.**
 
