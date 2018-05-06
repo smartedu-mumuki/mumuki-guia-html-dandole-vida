@@ -2,3 +2,5 @@
 expectations:
 - binding: css:.section
   inspection: DeclaresStyle:flex
+- binding: css.section
+  inspection: DeclaresStyle:column
