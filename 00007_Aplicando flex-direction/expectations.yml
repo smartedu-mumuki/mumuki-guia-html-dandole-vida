@@ -2,7 +2,7 @@
 expectations:
 - binding: css:.container
   inspection: DeclaresStyle:display:flex
-- binding: css:.container
+- binding: css:.aside
   inspection: DeclaresStyle:width:25%
 - binding: css:.curriculum
   inspection: DeclaresStyle:width:75%
