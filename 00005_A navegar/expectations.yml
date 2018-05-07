@@ -1,4 +1,10 @@
 ---
 expectations:
 - binding: css:.navbar
-  inspection: DeclaresStyle:flex
+  inspection: DeclaresStyle:display:flex
+- binding: css:.navbar
+  inspection: DeclaresStyle:align-items:center
+- binding: css:.navbar
+  inspection: DeclaresStyle:justify-content:space-around
+- binding: css:.navbar
+  inspection: DeclaresStyle:flex-direction:row
