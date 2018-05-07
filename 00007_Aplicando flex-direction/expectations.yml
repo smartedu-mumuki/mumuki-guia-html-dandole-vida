@@ -1,4 +1,14 @@
 ---
 expectations:
 - binding: 'css: .container'
-  inspection: DeclaresStyle:flex
+  inspection: DeclaresStyle:display:flex
+- binding: 'css: .container'
+  inspection: DeclaresStyle:width:25%
+- binding: css:.curriculum
+  inspection: DeclaresStyle:width:75%
+- binding: css:.footer
+  inspection: DeclaresStyle:display:flex
+- binding: css:.footer
+  inspection: DeclaresStyle:justify-content:center
+- binding: css:.footer
+  inspection: DeclaresStyle:align-items:center
