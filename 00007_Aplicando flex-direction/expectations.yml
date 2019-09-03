@@ -1,14 +1,20 @@
 ---
 expectations:
-- binding: css:.container
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.container
   inspection: DeclaresStyle:display:flex
-- binding: css:.aside
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.aside
   inspection: DeclaresStyle:width:25%
-- binding: css:.curriculum
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.curriculum
   inspection: DeclaresStyle:width:75%
-- binding: css:.footer
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.footer
   inspection: DeclaresStyle:display:flex
-- binding: css:.footer
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.footer
   inspection: DeclaresStyle:justify-content:center
-- binding: css:.footer
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.footer
   inspection: DeclaresStyle:align-items:center

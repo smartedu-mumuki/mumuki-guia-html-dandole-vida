@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: css:.section
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.section
   inspection: DeclaresStyle:display:flex
-- binding: css:.section
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.section
   inspection: DeclaresStyle:flex-direction:column
